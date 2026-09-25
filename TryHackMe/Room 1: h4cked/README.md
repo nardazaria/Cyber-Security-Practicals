@@ -1,4 +1,4 @@
-# Room: h4cked
+# h4cked
 
 **Type:** Challenge
 **Focus:** PCAP Analysis, FTP, Web Shell, Privilege Escalation
